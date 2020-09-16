@@ -1,0 +1,40 @@
+body {
+    height: 100vh;
+    width: 100vw;
+}
+header{
+    background-color: #785964;
+    height: 10%;
+    width: 100%;
+}
+
+h1{
+    color:royalblue;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.Home {
+    float: right;
+    color: aliceblue;
+    margin-right: 20px;
+    margin-top: 25px;
+    font-size: 20px;
+}
+
+.About {
+    float: right;
+    color: aliceblue;
+    margin-right: 20px;
+    margin-top: 25px;
+    font-size: 20px;
+}
+
+.Contact {
+    float: right;
+    color: aliceblue;
+    margin-right: 20px;
+    margin-top: 25px;
+    font-size: 20px;
+}
